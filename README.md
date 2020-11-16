@@ -27,6 +27,8 @@ pip install keyboard
 
 Now, all you need is a red coloured drum stick and a blue coloured drum stick. Just having the ends of the sticks coloured is enough too, alternatively, you can use a red and blue coloured sharpie as well. 
 
+Note: The kit I am using is Ian Paice Drum Set 
+
 <h2> Potential Improvements </h2>
 <ul>
   <li>  Add a Menu Screen </li>
@@ -35,6 +37,13 @@ Now, all you need is a red coloured drum stick and a blue coloured drum stick. J
   <li> Customizable Colour HSV ranges for Drum Sticks </li> 
 </ul>
 
+shoot me an email if you have any other ideas for potential improvements of this program! 
 
+<h2> References </h2>
+<ul>
+  <li> <a href = "https://www.youtube.com/watch?v=OuG6gb4TXfI"> Tanmay Bhowmick's project </li>
+  <li> <a href = "https://www.youtube.com/watch?v=MAnWwxTjL3k"> Francisco Rojo's project </li> 
+</ul>
+    
 
 
