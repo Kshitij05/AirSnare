@@ -7,7 +7,7 @@ AirDrums is a python program that lets you play air drums using two coloured sti
 
 <h2>Installation and Requirements</h2>
 
-Download the code, open virtualdrumming.com on your web browser and you're good to go! 
+Download the code, open <a href="https://www.virtualdrumming.com/drums/online-virtual-games/ian-paice-rock-drum-set.html">virtualdrumming.com</a> on your web browser and you're good to go! 
 Make sure that you have the required libraries installed, you can do so by typing the following commands in your terminal:
 
 OpenCV Installation:
