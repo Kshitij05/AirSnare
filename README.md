@@ -25,4 +25,16 @@ Keyboard installtion:
 pip install keyboard
 ```
 
+Now, all you need is a red coloured drum stick and a blue coloured drum stick. Just having the ends of the sticks coloured is enough too, alternatively, you can use a red and blue coloured sharpie as well. 
+
+<h2> Potential Improvements </h2>
+<ul>
+  <li>  Add a Menu Screen </li>
+  <li> Customizable Sizes for Drum Kit Piece Areas from Menu</li>
+  <li> Movable Drum Kit Piece Areas from Menu </li>
+  <li> Customizable Colour HSV ranges for Drum Sticks </li> 
+</ul>
+
+
+
 
