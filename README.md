@@ -5,6 +5,8 @@ Play AirDrums using OpenCV and <a href="https://www.virtualdrumming.com/drums/on
 
 AirDrums is a python program that lets you play air drums using two coloured sticks and <a href="https://www.virtualdrumming.com/drums/online-virtual-games/ian-paice-rock-drum-set.html">virtualdrumming.com</a>
 
+Here's a <a href = "https://www.youtube.com/watch?v=jBAoFhbCh6c&feature=youtu.be"> Video Demo for AirDrums </a>
+
 <h2>Installation and Requirements</h2>
 
 Download the code, open <a href="https://www.virtualdrumming.com/drums/online-virtual-games/ian-paice-rock-drum-set.html">virtualdrumming.com</a> on your web browser and you're good to go! 
