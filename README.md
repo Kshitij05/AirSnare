@@ -1,4 +1,4 @@
-# AirDrums
+# AirSnare
 Play AirDrums using OpenCV and <a href="https://www.virtualdrumming.com/drums/online-virtual-games/ian-paice-rock-drum-set.html">virtualdrumming.com</a>
 
 <h2>What is AirDrums?</h2>
