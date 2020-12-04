@@ -3,9 +3,9 @@ Play AirDrums using OpenCV and <a href="https://www.virtualdrumming.com/drums/on
 
 <h2>What is AirDrums?</h2>
 
-AirDrums is a python program that lets you play air drums using two coloured sticks and <a href="https://www.virtualdrumming.com/drums/online-virtual-games/ian-paice-rock-drum-set.html">virtualdrumming.com</a>
+AirSnare is a python program that lets you play air drums using two coloured sticks and <a href="https://www.virtualdrumming.com/drums/online-virtual-games/ian-paice-rock-drum-set.html">virtualdrumming.com</a>
 
-Here's a <a href = "https://www.youtube.com/watch?v=jBAoFhbCh6c&feature=youtu.be"> Video Demo for AirDrums </a>
+Here's a <a href = "https://www.youtube.com/watch?v=jBAoFhbCh6c&feature=youtu.be"> Video Demo for AirSnare </a>
 
 <h2>Installation and Requirements</h2>
 
@@ -31,7 +31,7 @@ Now, all you need is a red coloured drum stick and a blue coloured drum stick. J
 
 Note: The kit I am using is Ian Paice Drum Set 
 
-<h2> Potential Improvements </h2>
+<h2> Potential Improvements/Future Updates </h2>
 <ul>
   <li>  Add a Menu Screen </li>
   <li> Customizable Sizes for Drum Kit Piece Areas from Menu</li>
