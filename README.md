@@ -9,23 +9,13 @@ Here's a <a href = "https://www.youtube.com/watch?v=jBAoFhbCh6c&feature=youtu.be
 
 <h2>Installation and Requirements</h2>
 
-Download the code, open <a href="https://www.virtualdrumming.com/drums/online-virtual-games/ian-paice-rock-drum-set.html">virtualdrumming.com</a> on your web browser and you're good to go! 
-Make sure that you have the required libraries installed, you can do so by typing the following commands in your terminal:
+Clone the repository, open <a href="https://www.virtualdrumming.com/drums/online-virtual-games/ian-paice-rock-drum-set.html">virtualdrumming.com</a> on your web browser and you're good to go! 
+Make sure that you have the required libraries installed, you can do so by typing the following command in your terminal:
 
-OpenCV Installation:
 ```
-pip install opencv-python
-```
-
-PyAutoGui Installation:
-```
-pip install pyautogui
+pip install -r requirements.txt
 ```
 
-Keyboard installtion:
-```
-pip install keyboard
-```
 
 Now, all you need is a red coloured drum stick and a blue coloured drum stick. Just having the ends of the sticks coloured is enough too, alternatively, you can use a red and blue coloured sharpie as well. 
 
